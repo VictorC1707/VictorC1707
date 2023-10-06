@@ -14,16 +14,14 @@ Actualmente, estoy estudiando ingeniería informática y me apasiona todo lo rel
 
 ![8Bits Logo](https://raw.githubusercontent.com/VictorC1707/ImagesIA/master/Personal/Group.png)
 ## 🛠 Skills
-Desarrollo
 
+Desarrollo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,sass,bootstrap)](https://skillicons.dev)
 
 Diseño
-
 [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 
 Otros
-
 [![My Skills](https://skillicons.dev/icons?i=git,github,cpp,wordpress)](https://skillicons.dev)
 
 ## 📌 Mis Proyectos
