@@ -5,7 +5,7 @@
 
 Estudiante de ingeniería informática apasionado por el desarrollo web y en constante búsqueda de conocimientos en el campo de la programación. Como aspirante a FullStack Developer, estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
 
-![perfil](https://raw.githubusercontent.com/VictorC1707/ImagesIA/master/perfil1.jpeg)
+![perfil](https://raw.githubusercontent.com/VictorC1707/ImagesIA/master/IA/perfil1.jpeg)
 
 
 ## 🚀 About Me
